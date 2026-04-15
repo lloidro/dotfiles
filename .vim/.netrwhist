@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/lloid/.config/coc/extensions/node_modules/coc-pyright'
+let g:netrw_dirhist_9='/home/lloid/.config/coc/extensions/node_modules'
+let g:netrw_dirhist_8='/home/lloid/.config/coc/extensions'
+let g:netrw_dirhist_7='/home/lloid/.config/coc'
+let g:netrw_dirhist_6='/home/lloid/.config'
+let g:netrw_dirhist_5='/home/lloid/.config/Code - OSS/CachedExtensionVSIXs'
+let g:netrw_dirhist_4='/home/lloid/.config/Code - OSS'
+let g:netrw_dirhist_3='/home/lloid/.config'
+let g:netrw_dirhist_2='/home/lloid/.config/niri'
+let g:netrw_dirhist_1='/home/lloid/.config'
